@@ -6,6 +6,7 @@
  * @author   Alexey Bobkov, Samuel Georges
  */
 
+
 /*
 |--------------------------------------------------------------------------
 | Register composer
